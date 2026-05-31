@@ -1,10 +1,9 @@
 # Hper - AI智能体平台
 
-<div align="center">
 
 一款基于 Spring AI + Vue 3 的全栈 AI 对话应用，支持多轮对话记忆、智能体（Agent）管理、工具调用、RAG 知识库问答、文件解析与自主规划等核心能力。
+具有AI问答平台的基本骨架、只需接入AI大模型即可投入使用，实现基于ReAct模式的Agent，可根据业务开发相应服务。
 
----
 
 ## 📸 效果预览
 
@@ -12,16 +11,20 @@
 
 <!-- 在下方插入聊天页面截图 -->
 <p align="center">
-  <img src="./screenshots/chat-home.png" alt="聊天主页" width="800" />
+  <img width="2559" height="1326" alt="image" src="https://github.com/user-attachments/assets/3e69e330-9030-4c0d-8522-31b4ffe48070" />
 </p>
 
-### 智能体管理
+### 基于RAG的智能体，针对性的解决各种问题
 
 <!-- 在下方插入智能体页面截图 -->
 <p align="center">
-  <img src="./screenshots/agent-page.png" alt="智能体页面" width="800" />
+  <img width="2559" height="1325" alt="image" src="https://github.com/user-attachments/assets/e2dd1612-9344-4298-902b-35d0251f4a84" />
 </p>
 
+### 能够调用联网搜索工具，支持上传pdf、txt、pdf形式的文件
+<p align="center">
+<img width="2559" height="1324" alt="image" src="https://github.com/user-attachments/assets/e05a7938-f155-48b5-8470-0e8787ac3120" />
+</p>
 ---
 
 ## ✨ 核心功能
