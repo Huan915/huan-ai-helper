@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: huan-ai-help-mcp-server
+  profiles:
+    active: stdio
